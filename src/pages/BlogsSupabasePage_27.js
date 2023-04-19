@@ -43,7 +43,7 @@ const BlogsSupabasePages_27 = () => {
         <Wrapper>
         <section className="blogs">
       <div className="section-title">
-        <h2>fetch Blogs From Supabase Data</h2>
+        <h2>fetch Mid From Supabase Data</h2>
         <h3> {pName} {pId}</h3>
       </div>
       <div className="blogs-center2">

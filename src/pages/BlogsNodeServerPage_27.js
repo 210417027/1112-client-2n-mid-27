@@ -40,7 +40,7 @@ const BlogsNodeServerPages_27 = () => {
         <Wrapper>
         <section className="blogs">
       <div className="section-title">
-        <h2>fetch Blogs From Node Server Data</h2>
+        <h2>fetch Mid From Node Server Data</h2>
         <h3> {pName} {pId}</h3>
       </div>
       <div className="blogs-center2">
